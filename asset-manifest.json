@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PortfolioReact/static/css/main.8f347d20.css",
+    "main.js": "/PortfolioReact/static/js/main.da3e3d9e.js",
+    "static/js/592.ad8a1145.chunk.js": "/PortfolioReact/static/js/592.ad8a1145.chunk.js",
+    "static/media/1.jpg": "/PortfolioReact/static/media/1.20fdce9dddd7e1f0ed57.jpg",
+    "static/media/4.jpg": "/PortfolioReact/static/media/4.cc5e058dd10c3cd18021.jpg",
+    "static/media/isha-banner.png": "/PortfolioReact/static/media/isha-banner.f1fe9e8c503ab0c0f323.png",
+    "static/media/isha-about.png": "/PortfolioReact/static/media/isha-about.e35f21acce6ef9c19c39.png",
+    "static/media/3.jpg": "/PortfolioReact/static/media/3.e3bc89f47dc8ee795a9a.jpg",
+    "static/media/resume.pdf": "/PortfolioReact/static/media/resume.301027d91a86e8ab326f.pdf",
+    "static/media/2.jpg": "/PortfolioReact/static/media/2.f778715d79b2ef67168c.jpg",
+    "index.html": "/PortfolioReact/index.html",
+    "main.8f347d20.css.map": "/PortfolioReact/static/css/main.8f347d20.css.map",
+    "main.da3e3d9e.js.map": "/PortfolioReact/static/js/main.da3e3d9e.js.map",
+    "592.ad8a1145.chunk.js.map": "/PortfolioReact/static/js/592.ad8a1145.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f347d20.css",
+    "static/js/main.da3e3d9e.js"
+  ]
+}
