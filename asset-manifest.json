@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PortfolioReact/home/static/css/main.283dab8b.css",
-    "main.js": "/PortfolioReact/home/static/js/main.181ece06.js",
-    "static/js/592.ad8a1145.chunk.js": "/PortfolioReact/home/static/js/592.ad8a1145.chunk.js",
-    "static/media/1.jpg": "/PortfolioReact/home/static/media/1.20fdce9dddd7e1f0ed57.jpg",
-    "static/media/4.jpg": "/PortfolioReact/home/static/media/4.cc5e058dd10c3cd18021.jpg",
-    "static/media/isha-banner.png": "/PortfolioReact/home/static/media/isha-banner.f1fe9e8c503ab0c0f323.png",
-    "static/media/isha-about.png": "/PortfolioReact/home/static/media/isha-about.e35f21acce6ef9c19c39.png",
-    "static/media/3.jpg": "/PortfolioReact/home/static/media/3.e3bc89f47dc8ee795a9a.jpg",
-    "static/media/resume.pdf": "/PortfolioReact/home/static/media/resume.301027d91a86e8ab326f.pdf",
-    "static/media/2.jpg": "/PortfolioReact/home/static/media/2.f778715d79b2ef67168c.jpg",
-    "index.html": "/PortfolioReact/home/index.html",
-    "main.283dab8b.css.map": "/PortfolioReact/home/static/css/main.283dab8b.css.map",
-    "main.181ece06.js.map": "/PortfolioReact/home/static/js/main.181ece06.js.map",
-    "592.ad8a1145.chunk.js.map": "/PortfolioReact/home/static/js/592.ad8a1145.chunk.js.map"
+    "main.css": "/IshaPortfolioLive/static/css/main.afe0a7cb.css",
+    "main.js": "/IshaPortfolioLive/static/js/main.b15bbdbc.js",
+    "static/js/592.ad8a1145.chunk.js": "/IshaPortfolioLive/static/js/592.ad8a1145.chunk.js",
+    "static/media/1.jpg": "/IshaPortfolioLive/static/media/1.20fdce9dddd7e1f0ed57.jpg",
+    "static/media/4.jpg": "/IshaPortfolioLive/static/media/4.cc5e058dd10c3cd18021.jpg",
+    "static/media/isha-banner.png": "/IshaPortfolioLive/static/media/isha-banner.f1fe9e8c503ab0c0f323.png",
+    "static/media/isha-about.png": "/IshaPortfolioLive/static/media/isha-about.e35f21acce6ef9c19c39.png",
+    "static/media/3.jpg": "/IshaPortfolioLive/static/media/3.e3bc89f47dc8ee795a9a.jpg",
+    "static/media/resume.pdf": "/IshaPortfolioLive/static/media/resume.301027d91a86e8ab326f.pdf",
+    "static/media/2.jpg": "/IshaPortfolioLive/static/media/2.f778715d79b2ef67168c.jpg",
+    "index.html": "/IshaPortfolioLive/index.html",
+    "main.afe0a7cb.css.map": "/IshaPortfolioLive/static/css/main.afe0a7cb.css.map",
+    "main.b15bbdbc.js.map": "/IshaPortfolioLive/static/js/main.b15bbdbc.js.map",
+    "592.ad8a1145.chunk.js.map": "/IshaPortfolioLive/static/js/592.ad8a1145.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.283dab8b.css",
-    "static/js/main.181ece06.js"
+    "static/css/main.afe0a7cb.css",
+    "static/js/main.b15bbdbc.js"
   ]
 }
